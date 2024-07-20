@@ -1,2 +1,2 @@
-# authenticate-system
-Authenticate System for Sign in and Sign up
+# authentication-system
+Authentication System for Sign in and Sign up
